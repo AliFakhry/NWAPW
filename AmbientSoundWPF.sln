@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmbientSoundWPF", "AmbientSoundWPF\AmbientSoundWPF.csproj", "{707B48AB-ABD2-4860-89EE-97BEA0F5C7D4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Ambient Sound Setup", "Ambient Sound Setup\Ambient Sound Setup.vdproj", "{57CCFB26-B82C-4D10-B6BE-6E75031D2963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{707B48AB-ABD2-4860-89EE-97BEA0F5C7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707B48AB-ABD2-4860-89EE-97BEA0F5C7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707B48AB-ABD2-4860-89EE-97BEA0F5C7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707B48AB-ABD2-4860-89EE-97BEA0F5C7D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57CCFB26-B82C-4D10-B6BE-6E75031D2963}.Debug|Any CPU.ActiveCfg = Debug
+		{57CCFB26-B82C-4D10-B6BE-6E75031D2963}.Debug|Any CPU.Build.0 = Debug
+		{57CCFB26-B82C-4D10-B6BE-6E75031D2963}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54D5E630-FDD8-42BD-8D10-993FB7E4F970}
+	EndGlobalSection
+EndGlobal
